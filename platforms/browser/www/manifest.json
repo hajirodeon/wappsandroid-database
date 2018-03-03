@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "wappsandroid",
+  "short_name": "wappsandroid",
+  "version": "io.wappsandroid.wappsandroid",
+  "description": "wappsandroid",
+  "author": "wappsandroid",
+  "icons": [],
+  "start_url": "index.html"
+}
